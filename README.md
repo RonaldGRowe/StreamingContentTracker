@@ -1,7 +1,7 @@
-StreamingTracker
+StreamingContentTracker
 ================
 
-![Example of App Picture](https://github.com/RonaldGRowe/StreamingTracker/blob/master/Images/tracker-image.png)
+![Example of App Picture](https://github.com/RonaldGRowe/StreamingContentTracker/blob/master/Images/tracker-image.png)
 
 The ability to keep track of all the shows you have watched 
 and the ones you haven't.
